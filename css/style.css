@@ -14,8 +14,18 @@
     align-items: center;
 }
 
+img{
+    width: 100%;
+    height: auto;
+}
+
+svg{
+    width: 100%;
+}
+
 .pc{
     position: relative;
+    width: auto;
 }
 
 .pantalla{
@@ -42,6 +52,7 @@
 }
 
 .pantalla__folder{
+    width: 15%;
     text-align: center;
     margin: auto;
 }
